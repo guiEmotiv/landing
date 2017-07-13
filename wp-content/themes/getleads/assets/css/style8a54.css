@@ -2058,7 +2058,7 @@ textarea {
     border-radius: 5px;
     box-shadow: -2px -2px 6px 0 rgba(0,0,0,.1);
     background-color: #525e6c;
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .hero-leadbox .form-horizontal.form-2col {
